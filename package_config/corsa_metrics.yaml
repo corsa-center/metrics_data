@@ -4,5 +4,5 @@ name: CORSA Metrics Framework
 description: "Tools for the collection and analysis of metrics related to software sustainability"
 repo_type: github
 repo_url: "https://github.com/corsa-center/metrics"
-default_branch: develop
+default_branch: main
 primary_language: Python
