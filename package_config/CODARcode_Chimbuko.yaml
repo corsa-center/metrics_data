@@ -1,5 +1,5 @@
 schema: 1
-published: true
+published: false
 name: "Chimbuko"
 description: "Performance Analysis Framework for Scientific Workflows for online Data Analysis and Performance Visualization"
 repo_type: github

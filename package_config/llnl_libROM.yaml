@@ -1,5 +1,5 @@
 schema: 1
-published: true
+published: false
 name: "libROM"
 description: "Data-driven model reduction library with an emphasis on large scale parallelism and linear subspace methods"
 repo_type: github

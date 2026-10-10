@@ -1,5 +1,5 @@
 schema: 1
-published: true
+published: false
 name: "EXARL"
 description: "Scalable Framework for Reinforcement Learning"
 repo_type: github

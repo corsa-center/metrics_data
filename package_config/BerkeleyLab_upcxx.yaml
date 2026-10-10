@@ -1,5 +1,5 @@
 schema: 1
-published: true
+published: false
 name: "upcxx"
 description: "This is the main repository for the UPC++ v1.0 Library implementation."
 repo_type: github

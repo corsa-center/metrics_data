@@ -1,5 +1,5 @@
 schema: 1
-published: true
+published: false
 name: "CodeScribe"
 description: "AI Agent and CLI for Code Translation and Software Development in Scientific Computing"
 repo_type: github

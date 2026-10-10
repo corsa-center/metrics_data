@@ -1,5 +1,5 @@
 schema: 1
-published: true
+published: false
 name: "dakota"
 description: "The core Dakota project"
 repo_type: github

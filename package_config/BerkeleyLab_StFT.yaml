@@ -1,5 +1,5 @@
 schema: 1
-published: true
+published: false
 name: "StFT"
 description: "Spatio-temporal Fourier Transformer for Long Term Dynamics Prediction"
 repo_type: github

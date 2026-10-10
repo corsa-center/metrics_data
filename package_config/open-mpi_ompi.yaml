@@ -1,5 +1,5 @@
 schema: 1
-published: true
+published: false
 name: "ompi"
 description: "Open MPI main development repository"
 repo_type: github

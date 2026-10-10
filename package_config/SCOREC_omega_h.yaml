@@ -1,5 +1,5 @@
 schema: 1
-published: true
+published: false
 name: "omega_h"
 description: "Simplex mesh adaptivity for HPC"
 repo_type: github

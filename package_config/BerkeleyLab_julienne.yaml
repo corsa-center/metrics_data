@@ -1,5 +1,5 @@
 schema: 1
-published: true
+published: false
 name: "julienne"
 description: "A Fortran 2023 correctness-checking framework supporting expressive idioms for writing assertions and tests"
 repo_type: github

@@ -1,5 +1,5 @@
 schema: 1
-published: true
+published: false
 name: "libensemble"
 description: "A Python toolkit for coordinating asynchronous and dynamic ensembles of calculations."
 repo_type: github

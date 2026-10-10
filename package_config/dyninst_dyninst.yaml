@@ -1,5 +1,5 @@
 schema: 1
-published: true
+published: false
 name: "dyninst"
 description: "DyninstAPI: Tools for binary instrumentation, analysis, and modification."
 repo_type: github

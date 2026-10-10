@@ -1,5 +1,5 @@
 schema: 1
-published: true
+published: false
 name: "neuromancer"
 description: "Pytorch-based framework for solving parametric constrained optimization problems, physics-informed system identification, and parametric model predictive control. "
 repo_type: github

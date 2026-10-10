@@ -1,5 +1,5 @@
 schema: 1
-published: true
+published: false
 name: "OpenACCV-V"
 description: "OpenACC Validation and Verification Testsuite repository"
 repo_type: github

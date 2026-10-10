@@ -1,5 +1,5 @@
 schema: 1
-published: true
+published: false
 name: "visit"
 description: "VisIt - Visualization and Data Analysis for Mesh-based Scientific Data"
 repo_type: github

@@ -1,5 +1,5 @@
 schema: 1
-published: true
+published: false
 name: "libCEED"
 description: "CEED Library: Code for Efficient Extensible Discretizations"
 repo_type: github
